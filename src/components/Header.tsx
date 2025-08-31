@@ -18,9 +18,11 @@ const Header = () => {
       <nav className="container mx-auto px-4 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
-            <h1 className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              Pemma Global
-            </h1>
+            <img 
+              src="/lovable-uploads/51dc599a-61bc-44b9-ad8f-6d0d5f9f4dca.png" 
+              alt="Pemma Global Consulting" 
+              className="h-12 w-auto"
+            />
           </div>
 
           {/* Desktop Navigation */}

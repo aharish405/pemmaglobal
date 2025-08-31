@@ -31,9 +31,11 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           {/* Company Info */}
           <div className="lg:col-span-2">
-            <h3 className="text-3xl font-bold mb-4 bg-gradient-primary bg-clip-text text-transparent">
-              Pemma Global
-            </h3>
+            <img 
+              src="/lovable-uploads/51dc599a-61bc-44b9-ad8f-6d0d5f9f4dca.png" 
+              alt="Pemma Global Consulting" 
+              className="h-16 w-auto mb-4"
+            />
             <p className="text-background/80 mb-6 leading-relaxed max-w-md">
               Technology solutions company specializing in software development, 
               cloud services, and digital transformation. We focus on innovation, 
